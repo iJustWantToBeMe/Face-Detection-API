@@ -9,9 +9,8 @@ API for [Face-Detection](https://github.com/iJustWantToBeMe/Face-Detection)
 ## Getting started
 1. Clone the repository
 2. Grab your API key by creating a free account on [Clarifai](https://portal.clarifai.com/signup) and add it in `controllers/image.js`
-3. Input **YOUR** database credentials in `controllers/image.js` - *####This project was design to use postgreSQL*
+3. Input **YOUR** database credentials in `controllers/image.js` - *__This project was design to be use with postgreSQL only__*
 
-
-First clone this repository then in the project directory, you can run:
+Then in the project directory, you can run:
 1. #### `npm install`
 2. #### `npm start`
