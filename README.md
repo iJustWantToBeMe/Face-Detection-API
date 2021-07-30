@@ -2,12 +2,12 @@
 API for [Face-Detection](https://github.com/iJustWantToBeMe/Face-Detection)
 
 ## Tech stack
+
 * `Node.js` * `Express.js`
 * `PostgreSQL` * `Bcrypt`
 * `Knex.js` * `Clarifai`
 
 ## Getting started
-In the project directory:
 
 1. Clone the repository
 2. #### Run `npm install`
